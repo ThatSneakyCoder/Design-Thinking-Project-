@@ -16,3 +16,5 @@ Webpage made by:
 6. Sanyam 
 7. Prajwal
 8. Ashwin
+
+For the PR please host the website locally and share image of how the website looks before and how it looks after the changes you have made. 
